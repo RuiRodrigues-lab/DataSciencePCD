@@ -1,2 +1,2 @@
 # DataSciencePCD
-Repo para a cadeira de PCD de MCDE
+Python para Programação para Ciencia de dados
